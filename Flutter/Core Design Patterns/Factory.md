@@ -1,0 +1,1 @@
+Factory - we use a factory keyword when implementing constroctor that not allways create a new instance of the class. It can return an instance from a cache, or it might return an instance of a subtype.
