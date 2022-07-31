@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4bc433be17246133",
+        "id": "cebdd344f3adea27",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Flutter/Basic Widgets/Mobile HIG.md",
+            "file": "Flutter/Networking/JSON.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 150.5
   },
   "right": {
     "id": "defdc6171ac38c86",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Basic Widgets/Mobile HIG.md",
+                "file": "Flutter/Networking/JSON.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Basic Widgets/Mobile HIG.md",
+                "file": "Flutter/Networking/JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Basic Widgets/Mobile HIG.md"
+                "file": "Flutter/Networking/JSON.md"
               }
             }
           }
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4bc433be17246133",
+  "active": "cebdd344f3adea27",
   "lastOpenFiles": [
-    "Flutter/Basic Widgets/Cupertino Design.md",
-    "Flutter/Basic Widgets/Material Design.md",
-    "Flutter/Basic Widgets/Material Widgets.md",
-    "Dart/Functional.md",
-    "Dart/Code style.md",
+    "Flutter/Profiling/Allocations.md",
+    "Flutter/Profiling/Perfomance.md",
+    "Flutter/Profiling/Leaks.md",
     "Flutter/Store/Google Dev Console.md",
     "Flutter/Store/App Store Connect.md",
-    "Flutter/Store/Google play Guidlines.md",
-    "Flutter/Store/AppStore Guidelines.md",
-    "Flutter/Analytics/A B Testing.md"
+    "Flutter/Life cycle methods.md",
+    "Flutter/Build context.md",
+    "Flutter/Packege Manager/Gradle.md",
+    "Flutter/Packege Manager/Popular Plugins.md",
+    "Flutter/Packege Manager/CocoaPods.md"
   ]
 }

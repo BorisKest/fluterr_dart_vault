@@ -1,0 +1,1 @@
+Unidirectional data flow - design pattern for state managmant that makes the flow of data structured, consistent, predicteble and testable.

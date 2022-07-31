@@ -1,0 +1,1 @@
+GraphQL is a query language for APIs and runtime for fulfilling those queries with your ecisting data. GraphQL provides a complet and understandable descripton of the data in your API, gives clients the power tp ask for exactly wht they need and nothing more, make it easier to evolve APIs over time, and enables powerful developer tools
