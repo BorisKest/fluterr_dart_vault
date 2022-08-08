@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Flutter/Networking/JSON.md",
+            "file": "Flutter/Packege Manager/Gradle.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 150.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "defdc6171ac38c86",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Networking/JSON.md",
+                "file": "Flutter/Packege Manager/Gradle.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Networking/JSON.md",
+                "file": "Flutter/Packege Manager/Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Networking/JSON.md"
+                "file": "Flutter/Packege Manager/Gradle.md"
               }
             }
           }
@@ -131,15 +132,15 @@
   },
   "active": "cebdd344f3adea27",
   "lastOpenFiles": [
-    "Flutter/Profiling/Allocations.md",
-    "Flutter/Profiling/Perfomance.md",
-    "Flutter/Profiling/Leaks.md",
-    "Flutter/Store/Google Dev Console.md",
-    "Flutter/Store/App Store Connect.md",
-    "Flutter/Life cycle methods.md",
-    "Flutter/Build context.md",
-    "Flutter/Packege Manager/Gradle.md",
-    "Flutter/Packege Manager/Popular Plugins.md",
-    "Flutter/Packege Manager/CocoaPods.md"
+    "Flutter/Packege Manager/CocoaPods.md",
+    "Flutter/Networking/TCP IP Socets.md",
+    "Flutter/Networking/RESTful API.md",
+    "Flutter/Networking/JSON.md",
+    "Flutter/Networking/GraphQL.md",
+    "Flutter/Flutter Intenals/Framework Architecture.md",
+    "Flutter/Flutter Intenals/Dart VM.md",
+    "Flutter/Database/Hive.md",
+    "Flutter/Core Design Principles/S.O.L.I.D.md",
+    "Flutter/Core Design Patterns/Observer.md"
   ]
 }
